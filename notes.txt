@@ -1,0 +1,2 @@
+image filenames need to be format NNN_dexNNN.png. randomly initiliaze the order they appear in the training text file
+
