@@ -1,2 +1,17 @@
 image filenames need to be format NNN_dexNNN.png. randomly initiliaze the order they appear in the training text file
 
+coding of games:
+
+0 red-green
+1 red-blue
+2 yellow
+3 gold
+4 silver
+5 crystal
+6 ruby-sapphire
+7 firered-leafgreen
+8 emerald
+9 diamond-pearl
+10 platinum
+11 heartgold-soulsilver
+12 black-white
