@@ -15,3 +15,7 @@ coding of games:
 10 platinum
 11 heartgold-soulsilver
 12 black-white
+
+number of sprites: 8066
+train: 7000
+test: 1069
